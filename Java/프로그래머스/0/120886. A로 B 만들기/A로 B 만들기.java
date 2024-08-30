@@ -5,7 +5,6 @@ class Solution {
         char bc[] = before.toCharArray();
 		char ac[] = after.toCharArray();
         char temp=' ';
-        char temp1=' ';
         for(int i=0; i<bc.length;i++){
             for(int j=i+1 ; j<bc.length;j++){
                 if(bc[i]>bc[j]) {
@@ -14,9 +13,9 @@ class Solution {
                     bc[j]=temp;
                 }
                 if(ac[i]>ac[j]) {
-                    temp1=ac[i];
-                    ac[i]=ac[j];
-                    ac[j]=temp1;
+                temp=ac[i];
+                ac[i]=ac[j];
+                ac[j]=temp;
                 }
             }
         }
