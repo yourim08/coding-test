@@ -21,19 +21,13 @@ class Solution {
         } 
         // 2개씩 같음
         else if(a==b && c==d){
-            answer=a-c;
-            if(answer<0) answer=-(answer);
-            answer=answer*(a+c);
+            answer=Math.abs(a-c)*(a+c);
         }
         else if(a==c && b==d){
-            answer=a-b;
-            if(answer<0) answer=-(answer);
-            answer=answer*(a+b);
+            answer=Math.abs(a-b)*(a+b);
         }
         else if(a==d && b==c){
-            answer=a-b;
-            if(answer<0) answer=-(answer);
-            answer=answer*(a+b);
+            answer=Math.abs(a-b)*(a+b);
         }
         // 2개 같고, 2개 다름
         else if(a==b && c!=d){
