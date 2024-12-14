@@ -1,10 +1,10 @@
 # [level 0] 편지 - 120898 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=go) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=ruby) 
 
 ### 성능 요약
 
-메모리: 4.21 MB, 시간: 0.00 ms
+메모리: 13.9 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 14일 23:34:54
+2024년 12월 14일 23:35:40
 
 ### 문제 설명
 
