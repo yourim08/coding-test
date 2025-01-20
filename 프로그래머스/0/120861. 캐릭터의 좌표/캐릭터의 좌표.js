@@ -1,7 +1,5 @@
 function solution(keyinput, board) {
-    var answer = new Array(2);
-    answer[0] = 0;
-    answer[1] = 0;
+    var answer = new Array(2).fill(0);
     for(let i=0; i<keyinput.length ; i++){
         if(keyinput[i] == "left"){
             if(answer[0]-1>=-(board[0]/2)){
