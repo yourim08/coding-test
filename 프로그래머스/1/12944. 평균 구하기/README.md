@@ -1,10 +1,10 @@
 # [level 1] 평균 구하기 - 12944 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=csharp) 
 
 ### 성능 요약
 
-메모리: 3.69 MB, 시간: 0.02 ms
+메모리: 31.2 MB, 시간: 0.28 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 21일 16:19:13
+2025년 01월 21일 16:23:13
 
 ### 문제 설명
 
