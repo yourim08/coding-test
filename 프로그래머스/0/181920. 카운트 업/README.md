@@ -1,10 +1,10 @@
 # [level 0] 카운트 업 - 181920 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=csharp) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.01 ms
+메모리: 31.7 MB, 시간: 0.26 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 02일 00:22:54
+2025년 02월 12일 23:22:18
 
 ### 문제 설명
 
