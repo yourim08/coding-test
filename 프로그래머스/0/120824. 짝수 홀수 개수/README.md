@@ -1,10 +1,10 @@
 # [level 0] 짝수 홀수 개수 - 120824 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.17 MB, 시간: 0.01 ms
+메모리: 31.3 MB, 시간: 0.19 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 30일 22:01:33
+2025년 02월 23일 23:27:30
 
 ### 문제 설명
 
