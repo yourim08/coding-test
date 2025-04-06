@@ -1,10 +1,10 @@
 # [level 0] 제곱수 판별하기 - 120909 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120909) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=python3) 
 
 ### 성능 요약
 
-메모리: 30.8 MB, 시간: 0.65 ms
+메모리: 9.23 MB, 시간: 48.84 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 18:17:44
+2025년 04월 06일 22:30:40
 
 ### 문제 설명
 
