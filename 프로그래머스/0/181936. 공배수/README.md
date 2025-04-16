@@ -1,10 +1,10 @@
 # [level 0] 공배수 - 181936 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 0.25 ms
+메모리: 9.22 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 01일 21:26:08
+2025년 04월 16일 20:02:44
 
 ### 문제 설명
 
