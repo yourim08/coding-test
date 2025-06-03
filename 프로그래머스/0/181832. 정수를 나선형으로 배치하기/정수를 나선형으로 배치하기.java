@@ -1,23 +1,13 @@
+import java.util.*;
 class Solution {
     public int[][] solution(int n) {
 		int m = 1;
 		int answer[][] = new int[n][n];
 		int k = n;
-		int s = n;
-		int o = 2;
-		int repeat = 0;
+		int repeat = (int)(Math.ceil((double)n/2));
 		int x = 0;
-		int y = 0;
+        int y = 0;
 		int count=0;
-
-
-		if(n%2==0) {
-			repeat = n/2;
-		}
-		else {
-			repeat = n/2+1;
-		}
-
 		// 전체 반복
 		for(int l=0; l<repeat; l++) {
 			// 한 획 반복
@@ -58,14 +48,12 @@ class Solution {
 				}
 				count++;
 				k--;
-				if(k == s-2 && count==2) {
+				if(k == n-2*(l+1) && count==2) {
 					k++;
 				}
 			}
-			k = n-o;
-			o+=2;
+			k = n-2*(l+1);
 			count = 0;
-			s-=2;
 			if(k<=0) {
 				break;
 			}
