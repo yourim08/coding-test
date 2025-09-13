@@ -1,10 +1,10 @@
 # [level 0] 덧셈식 출력하기 - 181947 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947?language=python3) 
 
 ### 성능 요약
 
-메모리: 4.21 MB, 시간: 3.69 ms
+메모리: 7.46 MB, 시간: 11.73 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 14일 23:47:03
+2025년 09월 13일 22:15:09
 
 ### 문제 설명
 
