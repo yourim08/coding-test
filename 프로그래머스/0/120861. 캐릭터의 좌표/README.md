@@ -1,10 +1,10 @@
 # [level 0] 캐릭터의 좌표 - 120861 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=java) 
 
 ### 성능 요약
 
-메모리: 9.36 MB, 시간: 0.03 ms
+메모리: 81.7 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 11일 22:38:57
+2026년 07월 13일 22:35:24
 
 ### 문제 설명
 
