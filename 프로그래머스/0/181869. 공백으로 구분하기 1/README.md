@@ -1,10 +1,10 @@
 # [level 0] 공백으로 구분하기 1 - 181869 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181869) 
 
 ### 성능 요약
 
-메모리: 9.16 MB, 시간: 0.01 ms
+메모리: 11.5 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 15일 20:35:50
+2026년 07월 22일 01:22:51
 
 ### 문제 설명
 
