@@ -1,3 +1,3 @@
 str = input()
-for s in str:
-    print(s)
+for a in str:
+    print(a)
