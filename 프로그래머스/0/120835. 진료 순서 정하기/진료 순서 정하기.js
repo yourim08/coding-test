@@ -4,7 +4,7 @@ function solution(emergency) {
     for(let i=0; i< emergency.length;i++){
         array[i]=emergency[i];
     }
-    emergency.sort((a,b) => a-b); // emergency정렬
+    emergency.sort((a,b) => a-b); 
     let turn = new Array(emergency.length);
     let n=emergency.length;
     for(let i=0; i<emergency.length;i++){
